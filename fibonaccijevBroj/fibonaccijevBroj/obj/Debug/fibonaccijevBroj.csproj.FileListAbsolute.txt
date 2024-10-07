@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\obj\Debug\fibonaccijevBroj.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\obj\Debug\fibonaccijevBroj.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\bin\Debug\fibonaccijevBroj.exe.config
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\bin\Debug\fibonaccijevBroj.exe
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\bin\Debug\fibonaccijevBroj.pdb
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\obj\Debug\fibonaccijevBroj.exe
+C:\Users\Ucenik\source\repos\fibonaccijevBroj\fibonaccijevBroj\obj\Debug\fibonaccijevBroj.pdb
